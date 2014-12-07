@@ -12,4 +12,5 @@
 /build/
 /vendor/
 /bin/
+!bin/startup.php
 /composer.phar
